@@ -9,5 +9,3 @@ function fibonacci(num){
 }
 
 console.log(fibonacci(18));
-
-//https://github.com/PugazharasanC/problemSolving
